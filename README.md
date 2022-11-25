@@ -11,10 +11,10 @@
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/RozhakXD/Premium
-    $ cd Premium
+    $ git clone https://github.com/sc-baj/Craks
+    $ cd Craks
     $ git pull
-    $ python Prem.py
+    $ python Craks.py
 # Sosial Media
     • Fb : https://free.facebook.com/rozhak.xyz
     • Ig : https://www.instagram.com/rozhak_official
